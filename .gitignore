@@ -1,4 +1,18 @@
-node_modules/
-.cache/
-.idea
+# OS specific generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Code editors
+.idea
+.code
+
+# Build tools
+.cache
+node_modules
+bower_components
+vendor
